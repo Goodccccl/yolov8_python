@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<annotation>
+		<floder>JPEGImages</floder>
+		<path>None</path>
+		<source>
+			<database>Unknow</database>
+		</source>
+		<segmented>0</segmented>
+		<filename>Cut_0_0(2)(2)_1.bmp</filename>
+		<size>
+			<width>2048</width>
+			<height>2048</height>
+			<depth>3</depth>
+		</size>
+		<object>
+			<name>chip</name>
+			<pose>Unspecified</pose>
+			<truncated>0</truncated>
+			<difficult>0</difficult>
+			<bndbox>
+				<xmin>1356</xmin>
+				<ymin>755</ymin>
+				<xmax>1508</xmax>
+				<ymax>914</ymax>
+			</bndbox>
+		</object>
+	</annotation>
